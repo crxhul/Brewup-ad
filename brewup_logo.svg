@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#6b3e2e"/><stop offset="100%" stop-color="#2e150d"/></linearGradient></defs>
+  <rect width="1200" height="600" fill="url(#g)"/>
+  <circle cx="220" cy="300" r="120" fill="#d0a17a"/>
+  <path d="M180 260 Q220 220 260 260 M160 300 Q220 260 280 300 M180 340 Q220 380 260 340" stroke="#6b3e2e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <text x="360" y="320" font-family="Arial" font-size="160" fill="#f5ede6" font-weight="700">BrewUp</text>
+  <text x="364" y="380" font-family="Arial" font-size="44" fill="#ead7c5">Wake up to perfection</text>
+</svg>
